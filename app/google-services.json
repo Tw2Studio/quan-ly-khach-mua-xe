@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "1019795392919",
+    "firebase_url": "https://the-gioi-xe.firebaseio.com",
+    "project_id": "the-gioi-xe",
+    "storage_bucket": "the-gioi-xe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019795392919:android:cc744c01bb03e6dd",
+        "android_client_info": {
+          "package_name": "com.tw2.thegioixe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019795392919-h4068pqaelmjipkomt3hp24ictmn0cth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tw2.thegioixe",
+            "certificate_hash": "f896536e3ac3b2a3500865a5812d182107f47e48"
+          }
+        },
+        {
+          "client_id": "1019795392919-ln8u1rb2lkvhqksifksane6s0qvk275b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpcsm1gR_PeM9PVSHVf3svaL8lFeyaxg8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019795392919-ln8u1rb2lkvhqksifksane6s0qvk275b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-2328589623882503~5535967444"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019795392919:android:19f19b361be3f98c",
+        "android_client_info": {
+          "package_name": "com.v2.two.appmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019795392919-7kt92a6vdpfgv0oo0rlpnn8jfo7htqnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.v2.two.appmanager",
+            "certificate_hash": "a4a8de86823066addba3c8379ecc22cc2c2c0a6b"
+          }
+        },
+        {
+          "client_id": "1019795392919-ln8u1rb2lkvhqksifksane6s0qvk275b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpcsm1gR_PeM9PVSHVf3svaL8lFeyaxg8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019795392919-ln8u1rb2lkvhqksifksane6s0qvk275b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
